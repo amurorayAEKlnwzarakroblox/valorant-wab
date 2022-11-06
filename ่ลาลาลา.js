@@ -9,7 +9,7 @@ app.use('/', function (req, res, next) {
     var options = {      
         root: path.join(__dirname)   
     };
-    var fileName = 'indexx.html';    
+    var fileName = 'index.html';    
     res.sendFile(fileName, options, function (err) { 
         if (err) {      
         } else {
