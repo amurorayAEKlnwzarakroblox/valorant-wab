@@ -1,0 +1,14 @@
+{
+  "name": "web-29-10-2022-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "่ลาลาลา.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
